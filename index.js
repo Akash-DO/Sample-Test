@@ -1,7 +1,6 @@
 const express  = require("express")
 
 const app = express()
-//hello
 
 function Calculate(v1){
     
